@@ -1,22 +1,3 @@
-## Hi there 👋
-
-<!--
-**jadeproheshan/jadeproheshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-let me have a try
-# 我的项目成长时间线
-
 ## 2021
 
 <a href="https://github.com/jadeproheshan/easysnake">
@@ -41,3 +22,21 @@ let me have a try
 </div>
 <br clear="all" />
 
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/jadeproheshan/easysnake">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=easysnake&theme=buefy" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/script-develop/XMU_Reservation-script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=script-develop&repo=XMU_Reservation-script&theme=buefy" />
+      </a>
+    </td>
+  </tr>
+</table>
