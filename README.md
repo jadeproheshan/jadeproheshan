@@ -14,7 +14,13 @@
 | [![河南大学学生管理系统](https://github-readme-stats.vercel.app/api/pin/?username=script-develop&repo=XMU_Reservation-script&theme=buefy)](https://github.com/script-develop/XMU_Reservation-script) | **25年4月 河南大学学生管理系统** <br><br> 我负责全栈，前端是vue，后端是c#的.net框架。<br>具体内容待补充。 |
 | [![智言汉语学习助手](https://github-readme-stats.vercel.app/api/pin/?username=JustinSparrrow&repo=IOOI-EmotionEgg&theme=buefy)](https://github.com/JustinSparrrow/IOOI-EmotionEgg) | **25年5月 省级互联网+项目智言汉语学习助手** <br><br> 自己训练了个agent，做了类似百词斩的app，并接入了agent实现汉语学习对话。<br>主要内容待补充。 |
 | [![医疗预检Agent](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=yolo-practice&theme=buefy)](https://github.com/jadeproheshan/yolo-practice) | **25年6月 医疗预检Agent与企微机器人** <br><br> 参与医疗预检Agent的后端控制与AI调试，同时设计并实现了配套的企微机器人，用于问诊流程通知与信息交互。 |
+| [![pygame](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=easysnake&theme=buefy)](https://github.com/jadeproheshan/easysnake) | **25年7月 pygame复刻空洞骑士** <br>跟第一次写贪吃蛇比技术好了很多 主要内容待补充。 |
 | [![feed](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=easysnake&theme=buefy)](https://github.com/jadeproheshan/easysnake) | **25年7月 feed** <br><br> 用uniapp开发的项目。<br>主要内容待补充。 |
+
+
+
+
+
 
 
 
