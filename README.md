@@ -11,7 +11,7 @@
 
 <div align="left">
   <a href="https://github.com/script-develop/XMU_Reservation-script">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=script-develop&repo=XMU_Reservation-script&theme=buefy" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=script-develop&repo=XMU_Reservation-script&theme=buefy" />
   </a>
   <div style="margin-bottom: 1rem">
     <h3>2022 体育馆预约脚本</h3>
