@@ -12,7 +12,7 @@
 | [![DeepSeek Agent云部署](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=ME&theme=buefy)](https://github.com/jadeproheshan/easysnake) | **25年4月 DeepSeek Agent云部署** <br><br> 在云服务器上用 Docker 部署了 DeepSeek Agent 相关工具，独立解决了网络和环境配置等一系列问题。过程中深入体验了 Linux 配环境的难点，提升了调试和排错能力，也初步掌握了 Docker 和命令行工具。最终顺利实现了公网可访问的部署。 |
 | | **25年5月 省级互联网+项目智言汉语学习助手** <br><br> 参与技术选型和架构设计，负责AI模型层与后端系统的对接。项目实现了类似百词斩的汉语学习功能，并集成了智能对话助手来辅助学习。 |
 |  [![pygame](https://github-readme-stats.vercel.app/api/pin/?username=ForHT&repo=Hollow-Knight&theme=buefy)](https://github.com/ForHT/Hollow-Knight) | **25年7月 Pygame复刻空洞骑士** <br><br> 负责设计实现了基于数据驱动的动画渲染系统，包括资源管理、动画状态机和特效系统。通过高度解耦的架构设计和事件驱动机制，实现了流畅的角色动画和特效渲染，展现了在游戏架构设计上的显著进步。 |
-| [![feed](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=ME&theme=buefy)](https://github.com/jadeproheshan/ME#feed-app) | **25年7月 FEED - 儿童厌食症辅助应用** <br><br> 中美青年创客大赛候补国赛作品，软件部分独立完成的全栈项目，旨在通过游戏化交互改善儿童厌食问题。使用 Node.js 和 uni-app (Vue) 开发了后端服务和跨平台家长端应用，编写主控主控的轮询服务，并从零实现了动态的数据可视化图表。 |
+| [![feed](https://github-readme-stats.vercel.app/api/pin/?username=jadeproheshan&repo=ME&theme=buefy)](https://github.com/jadeproheshan/ME#feed-app) | **25年7月 FEED - 儿童厌食症辅助应用** <br><br> 中美青年创客大赛候补国赛作品，软件部分为独立完成的全栈项目，旨在通过游戏化交互改善儿童厌食问题。使用 Node.js 和 uni-app (Vue) 开发了后端服务和跨平台家长端应用，编写主控主控的轮询服务，并从零实现了动态的数据可视化图表。 |
 
 ### 项目实践
 | 时间 | 项目 |  背景 | 主要职责 |
